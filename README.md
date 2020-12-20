@@ -2,7 +2,7 @@
 
 ### I'm Abhirag.
 
-I am:
+### I am:
 
 - A neural network - I learn every day
 - An engineer - I break apart things to learn how they work
@@ -11,6 +11,7 @@ I am:
 - A computer vision engineer - I build neural networks to work on images/videos
 - An avid reader - I read about technology 
 - A chef - I make amazing Indian cuisine
+
 
 <!--
 **noobiecoder1942/noobiecoder1942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,11 +30,12 @@ Here are some ideas to get you started:
 
 Welcome to my Github profile!
 
-Connect with me: <a href="https://www.linkedin.com/in/abhirag-nagpure/"><img height="32" width="32" src="icons/linkedin-fill.svg" /></a>
+### Connect with me: 
+
+<a href="https://www.linkedin.com/in/abhirag-nagpure/"><img height="32" width="32" src="icons/linkedin-fill.svg" /></a>
+
+<a href="mailto:abhiragnagpure@gmail.com?subject=[GitHub]%From%20Github"><img height="32" width="32" src="icons/mail-fill.svg" /></a>
 
 
 
-My Tech Stack:
-
-![Custom badge](http://img.shields.io/badge/Python-NumPy%20%7C%20Pandas%20%7C%20Tensorflow%20%7C%20PyTorch%20%7C%20scikit--learn%20%7C%20matplotlib-brightgreen?style=for-the-badge&logo=appveyor)
 
