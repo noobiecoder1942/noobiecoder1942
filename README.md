@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 Welcome to my Github profile!
 
-Connect with me: <a href="https://www.linkedin.com/in/abhirag-nagpure/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+Connect with me: <a href="https://www.linkedin.com/in/abhirag-nagpure/"><img height="32" width="32" src="icons/linkedin-fill.svg" /></a>
+
 
 
 My Tech Stack:
