@@ -4,14 +4,22 @@
 
 ### I am:
 
-- A neural network - I learn every day
-- An engineer - I break apart things to learn how they work
-- A data scientist - I make sense out of data
-- A machine learning engineer - I use machine learning to build AI-based applications
-- A computer vision engineer - I build neural networks to work on images/videos
-- An avid reader - I read about technology 
-- A chef - I make amazing Indian cuisine
+- 🧠 A neural network - I learn every day!
+- 👔 An engineer - I break apart things to learn how they work!
+- 🔥 A data scientist - I make sense out of data!
+- ✨ A machine learning engineer - I use machine learning to build AI-based applications!
+- 🎞 A computer vision engineer - I build neural networks to work on images/videos!
+- 📕 An avid reader - I read about technology!
+- 🧆 A chef - I make amazing Indian cuisine!
 
+### More about me:
+
+- 🔭 I’m currently working on a personal project in the data science domain.
+- 🌱 I’m currently learning AWS - Amazon Web Services.
+- 👯 I’m looking to collaborate on deep learning/computer vision projects!
+- 💬 Ask me about anything at all! I'm happy to have a chat!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I haven't watched a single episode of Game of Thrones!
 
 <!--
 **noobiecoder1942/noobiecoder1942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
