@@ -2,7 +2,15 @@
 
 ### I'm Abhirag.
 
-I am a data scientist.
+I am:
+
+- A neural network - I learn every day
+- An engineer - I break apart things to learn how they work
+- A data scientist - I make sense out of data
+- A machine learning engineer - I use machine learning to build AI-based applications
+- A computer vision engineer - I build neural networks to work on images/videos
+- An avid reader - I read about technology 
+- A chef - I make amazing Indian cuisine
 
 <!--
 **noobiecoder1942/noobiecoder1942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
